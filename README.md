@@ -83,5 +83,6 @@ For comparison, a Naive Bayes model was also trained and saved.
 
 * Do **not** commit your `ngrok` auth token to public repositories.
 * The public URL changes every time you run the notebook.
+* The original dataset used in this project is not included in the repository due to confidentiality. To test or run the project, please use your own dataset with a similar structure, or create a sample dataset with columns like "email" and "type" representing the email content and its category respectively.
 
 ---
