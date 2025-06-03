@@ -6,10 +6,10 @@ This project uses a machine learning model to classify emails into categories su
 
 ###Features
 
-* ✅ Email classification using **TF-IDF + SVM**
-* ✅ PII masking from email body (e.g., phone numbers, emails)
-* ✅ REST API built with **FastAPI**
-* ✅ Hosted on **ngrok** for public testing
+* Email classification using **TF-IDF + SVM**
+* PII masking from email body (e.g., phone numbers, emails)
+* REST API built with **FastAPI**
+* Hosted on **ngrok** for public testing
 
 ---
 
